@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: "Quick Prep",
   },
-  pathPrefix: "/quickprep",
+  pathPrefix: "/",
   plugins: [
     "gatsby-plugin-styled-components",
     {
